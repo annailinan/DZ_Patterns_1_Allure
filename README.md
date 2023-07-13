@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/oq49u01trqsaap65?svg=true)](https://ci.appveyor.com/project/annailinan/dz-patterns-1-allure)
+[![Build status](https://ci.appveyor.com/api/projects/status/5dmun1u5yipoe9lm?svg=true)](https://ci.appveyor.com/project/annailinan/dz-patterns-1-allure-7v8dl)
 # Домашнее задание к занятию «9. Репортинг»
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте netology.ru.
 
